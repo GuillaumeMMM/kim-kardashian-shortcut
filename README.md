@@ -1,7 +1,10 @@
 # Kim Kardashian Google Shortcut
-Very practicle Chrome extension that will add 'Kim Kardashian' before your google searches.
+You wonder which dress Kim wore at her daughter's birthday ?
+You need to know what kind of pizza Kim takes in hard times ?
 
-You won't waste time anymore when you need to get information abut Kim.
+I believe that your time is precious.
+
+This chrome extension will add 'Kim Kardashian' at the beginning of your google searchs!
 
 # Demo
 ![alt text](https://raw.githubusercontent.com/guillaumemmm/kim-kardashian-shortcut/master/images/prom.png)
