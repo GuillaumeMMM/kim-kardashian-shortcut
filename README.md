@@ -6,5 +6,7 @@ I believe that your time is precious.
 
 This chrome extension will add 'Kim Kardashian' at the beginning of your google searchs!
 
+[Available here](https://chrome.google.com/webstore/detail/kim-kardashian-shortcut/npamjlnjadibkpefcifiakjdffnafcoi)
+
 # Demo
 ![alt text](https://raw.githubusercontent.com/guillaumemmm/kim-kardashian-shortcut/master/images/prom.png)
