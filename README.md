@@ -1,6 +1,6 @@
 # Kim Kardashian Google Shortcut
 You wonder which dress Kim wore at her daughter's birthday ?
-You need to know what kind of pizza Kim takes in hard times ?
+You need to know what kind of pizza Kim goes for in hard times ?
 
 I believe that your time is precious.
 
